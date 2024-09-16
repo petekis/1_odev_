@@ -1,0 +1,37 @@
+SORU 1:
+Başla 
+	İlk Sayı Al(Num1)
+	İkinci Sayı Al(Num2)
+	Toplam = Num1 + Num2
+	Toplam yazdır 
+Bitir
+
+SORU2:
+Başla
+Toplam = 0 
+i = 1 
+Döngü: i<=100
+	Toplam = Toplam + i
+	i = i + 1
+Döngü bitir
+Toplam yazdır
+	
+
+SORU3:
+Başla
+Sayı gir(Num1)
+Eger Num1 == 1 ise 
+	Yaz "Num1 asal değildir"
+i = 2 
+Eger Num1 % i == 0 ise 
+	Yaz "Num1 asal değildir" 
+Döngü  (i < Num1)
+	Eger Num1 % i == 0 ise 
+		Yaz "Num1 asal değildir"
+		Bitir  
+	i = i + 1
+Döngüyü bitir 
+Yaz "Num1 asaldır" 
+Bitir
+
+
